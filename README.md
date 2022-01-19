@@ -1,4 +1,4 @@
-# App Recommendation (python) - Dataquest Fundamentals
+# App Recommendation - Dataquest Python Fundamentals
 
 In this project, I recommend the type of app that a company should develop based on the popularity of different types of apps on the App Store and on Google Play. A more detailed description is included in the jupyter notebook.</br></br>
 
